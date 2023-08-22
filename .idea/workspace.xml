@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="">
+    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="dz1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Podctroka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz1/fedirasion/Faktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/fedirasion/Faktorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz1/fedirasion/Uniqueness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/fedirasion/Uniqueness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz1/imperial/Minimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/imperial/Minimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz1/imperial/Summa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/imperial/Summa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Uniqueness">
+}</component>
+  <component name="RunManager" selected="Application.Podctroka">
     <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz1.fedirasion.Faktorial" />
       <module name="Paradigma" />
@@ -65,12 +61,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.imperial.Minimal" />
+    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz2.Fibonaci" />
       <module name="Paradigma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.imperial.*" />
+          <option name="PATTERN" value="dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Podctroka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz2.Podctroka" />
+      <module name="Paradigma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,10 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Podctroka" />
+        <item itemvalue="Application.Fibonaci" />
         <item itemvalue="Application.Uniqueness" />
         <item itemvalue="Application.Faktorial" />
         <item itemvalue="Application.Summa" />
-        <item itemvalue="Application.Minimal" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1692181028934</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz1">
+      <created>1692187010711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692187010711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
   </component>
 </project>
