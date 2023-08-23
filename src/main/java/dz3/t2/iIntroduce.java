@@ -1,4 +1,4 @@
-package dz3;
+package dz3.t2;
 
 public interface iIntroduce {
    static void introduce(Person person){

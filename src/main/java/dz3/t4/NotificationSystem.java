@@ -1,4 +1,4 @@
-package dz3;
+package dz3.t4;
 
 import java.util.ArrayList;
 import java.util.HashSet;

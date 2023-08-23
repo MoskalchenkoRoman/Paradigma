@@ -1,6 +1,8 @@
-package dz3;
+package dz3.t2;
 
-import static dz3.iIntroduce.introduce;
+import dz3.t2.Person;
+
+import static dz3.t2.iIntroduce.introduce;
 
 public class Main {
 

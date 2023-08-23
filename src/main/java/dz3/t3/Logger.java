@@ -1,4 +1,4 @@
-package dz3;
+package dz3.t3;
 import java.io.Serializable;
 
 public final class Logger implements Serializable{

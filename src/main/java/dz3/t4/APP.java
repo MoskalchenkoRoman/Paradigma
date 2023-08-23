@@ -1,4 +1,4 @@
-package dz3;
+package dz3.t4;
 
 public class APP {
     public static void main(String[] args) {
