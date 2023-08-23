@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="dz1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Podctroka.java" afterDir="false" />
+    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="dz2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/NotificationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/iIntroduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/iObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,13 +55,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Podctroka">
-    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.fedirasion.Faktorial" />
+  <component name="RunManager" selected="Application.APP">
+    <configuration name="APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz3.APP" />
       <module name="Paradigma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.fedirasion.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Podctroka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz2.Podctroka" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz3.Main" />
       <module name="Paradigma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Summa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.imperial.Summa" />
+    <configuration name="Podctroka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz2.Podctroka" />
       <module name="Paradigma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.imperial.*" />
+          <option name="PATTERN" value="dz2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.APP" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Podctroka" />
         <item itemvalue="Application.Fibonaci" />
         <item itemvalue="Application.Uniqueness" />
-        <item itemvalue="Application.Faktorial" />
-        <item itemvalue="Application.Summa" />
       </list>
     </recent_temporary>
   </component>
@@ -139,11 +147,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692187010711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dz2">
+      <created>1692701558001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692701558001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
+    <MESSAGE value="dz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
   </component>
 </project>
