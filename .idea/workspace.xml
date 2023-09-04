@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="dz4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/Primer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/Primer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a4c87ec4-f816-42cc-9454-3ce138078bd7" name="Changes" comment="dz5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +50,7 @@
       <recent name="C:\Users\rymos\IdeaProjects\Paradigma\src\main\java\dz3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Primer2">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz3.t4.APP" />
       <module name="Paradigma" />
@@ -68,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz3.t2.Main" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz6.BinarySearch" />
       <module name="Paradigma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz3.t2.*" />
+          <option name="PATTERN" value="dz6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Primer2" />
         <item itemvalue="Application.Primer1" />
         <item itemvalue="Application.dz4.Main" />
         <item itemvalue="Application.APP" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693245065674</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz5">
+      <created>1693469446098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693469446098</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +186,7 @@
     <MESSAGE value="dz3" />
     <MESSAGE value="dz3.1" />
     <MESSAGE value="dz4" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
+    <MESSAGE value="dz5" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz5" />
   </component>
 </project>
